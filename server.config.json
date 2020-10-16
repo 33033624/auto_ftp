@@ -1,0 +1,8 @@
+{
+  "remote_path": "/usr/local/nginx/html/depweb/",
+  "local_path": "dist/",
+  "host": "",
+  "port": 80,
+  "username": "",
+  "password": ""
+}
